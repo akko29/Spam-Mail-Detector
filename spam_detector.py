@@ -1,7 +1,7 @@
 import sys
 import pandas as pd
 import _pickle as cPickle
-from sklearn.feature_extraction.text import TfidfVectorizer
+
 
 
 input_data = sys.argv[1]
