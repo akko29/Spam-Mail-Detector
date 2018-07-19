@@ -16,4 +16,6 @@ git clone https://github.com/akko29/Spam-Mail-Detector.git
 python spam_detector.py <filename.txt>
 #python spam_detector.py test.txt
 ```
+#### Note: 
+The text file should contains only the mail content of a single e-mail. 
 
