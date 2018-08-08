@@ -6,6 +6,7 @@ The classifier helps in determining whether an e-mail is spam or not.
 * cPickle (Python2.7)
 * _pickle(Python 3.0+)
 * Pandas
+* NLTK(Natural Language Processing Toolkit)
 
 ### To Run the detector Firsr clone the Repo:
 ```
