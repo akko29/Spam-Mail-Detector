@@ -8,7 +8,7 @@ The classifier helps in determining whether an e-mail is spam or not.
 * Pandas
 * NLTK(Natural Language Processing Toolkit)
 
-### To Run the detector Firsr clone the Repo:
+### To Run the detector First clone the Repo:
 ```
 git clone https://github.com/akko29/Spam-Mail-Detector.git
 ```
